@@ -550,3 +550,6 @@
 
 **PDF**: https://openreview.net/pdf?id=QgX15Mdi1E_
 
+### 欢迎关注
+
+<img src="./wx_logo.jpg" width = "400" height = "400" align=center />
