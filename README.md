@@ -6,9 +6,9 @@
 
 **TL;DR**: We use representation analysis methods to study Vision Transformers and understand differences between them and CNNs.
 
-**OpenReview**: https://openreview.net/forum?id=R-616EWWKF5
+**OpenReview**: [https://openreview.net/forum?id=R-616EWWKF5](https://openreview.net/forum?id=R-616EWWKF5)
 
-**PDF**: https://openreview.net/pdf?id=R-616EWWKF5
+**PDF**: [https://openreview.net/pdf?id=R-616EWWKF5](https://openreview.net/pdf?id=R-616EWWKF5)
 
 ### 2. Early Convolutions Help Transformers See Better
 
@@ -16,9 +16,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=Lpfh1Bpqfk
+**OpenReview**: [https://openreview.net/forum?id=Lpfh1Bpqfk](https://openreview.net/forum?id=Lpfh1Bpqfk)
 
-**PDF**: https://openreview.net/pdf?id=Lpfh1Bpqfk
+**PDF**: [https://openreview.net/pdf?id=Lpfh1Bpqfk](https://openreview.net/pdf?id=Lpfh1Bpqfk)
 
 ### 3. SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers
 
@@ -26,9 +26,9 @@
 
 **TL;DR**: We present a simple yet powerful pipeline for semantic segmentation with Transformers.
 
-**OpenReview**: https://openreview.net/forum?id=OG18MI5TRL
+**OpenReview**: [https://openreview.net/forum?id=OG18MI5TRL](https://openreview.net/forum?id=OG18MI5TRL)
 
-**PDF**: https://openreview.net/pdf?id=OG18MI5TRL
+**PDF**: [https://openreview.net/pdf?id=OG18MI5TRL](https://openreview.net/pdf?id=OG18MI5TRL)
 
 ### 4. Long-Short Transformer: Efficient Transformers for Language and Vision
 
@@ -36,9 +36,9 @@
 
 **TL;DR**: We propose an efficient attention mechanism that is applicable to both autoregressive and bidirectional models in language and vision.
 
-**OpenReview**: https://openreview.net/forum?id=M_lkFOwVdYc
+**OpenReview**: [https://openreview.net/forum?id=M_lkFOwVdYc](https://openreview.net/forum?id=M_lkFOwVdYc)
 
-**PDF**: https://openreview.net/pdf?id=M_lkFOwVdYc
+**PDF**: [https://openreview.net/pdf?id=M_lkFOwVdYc](https://openreview.net/pdf?id=M_lkFOwVdYc)
 
 ### 5. Test-Time Personalization with a Transformer for Human Pose Estimation
 
@@ -46,9 +46,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=cwSkaedP-wz
+**OpenReview**: [https://openreview.net/forum?id=cwSkaedP-wz](https://openreview.net/forum?id=cwSkaedP-wz)
 
-**PDF**: https://openreview.net/pdf?id=cwSkaedP-wz
+**PDF**: [https://openreview.net/pdf?id=cwSkaedP-wz](https://openreview.net/pdf?id=cwSkaedP-wz)
 
 ### 6. VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text
 
@@ -56,9 +56,9 @@
 
 **TL;DR**: A pure Transformer-based pipeline for learning semantic representations from raw video, audio, and text without supervision
 
-**OpenReview**: https://openreview.net/forum?id=RzYrn625bu8
+**OpenReview**: [https://openreview.net/forum?id=RzYrn625bu8](https://openreview.net/forum?id=RzYrn625bu8)
 
-**PDF**: https://openreview.net/pdf?id=RzYrn625bu8
+**PDF**: [https://openreview.net/pdf?id=RzYrn625bu8](https://openreview.net/pdf?id=RzYrn625bu8)
 
 ### 7. Searching the Search Space of Vision Transformer
 
@@ -66,9 +66,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=AVS8CamBecS
+**OpenReview**: [https://openreview.net/forum?id=AVS8CamBecS](https://openreview.net/forum?id=AVS8CamBecS)
 
-**PDF**: https://openreview.net/pdf?id=AVS8CamBecS
+**PDF**: [https://openreview.net/pdf?id=AVS8CamBecS](https://openreview.net/pdf?id=AVS8CamBecS)
 
 ### 8. Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction
 
@@ -76,9 +76,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=LoUdcqLuPej
+**OpenReview**: [https://openreview.net/forum?id=LoUdcqLuPej](https://openreview.net/forum?id=LoUdcqLuPej)
 
-**PDF**: https://openreview.net/pdf?id=LoUdcqLuPej
+**PDF**: [https://openreview.net/pdf?id=LoUdcqLuPej](https://openreview.net/pdf?id=LoUdcqLuPej)
 
 ### 9. TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up
 
@@ -86,9 +86,9 @@
 
 **TL;DR**: We build a pure transformer-based generative adversarial network and shows its competitive performance on multiple benchmarks.
 
-**OpenReview**: https://openreview.net/forum?id=1GTpBZvNUrk
+**OpenReview**: [https://openreview.net/forum?id=1GTpBZvNUrk](https://openreview.net/forum?id=1GTpBZvNUrk)
 
-**PDF**: https://openreview.net/pdf?id=1GTpBZvNUrk
+**PDF**: [https://openreview.net/pdf?id=1GTpBZvNUrk](https://openreview.net/pdf?id=1GTpBZvNUrk)
 
 ### 10. Augmented Shortcuts for Vision Transformers
 
@@ -96,9 +96,9 @@
 
 **TL;DR**: A novel augmented shortcut scheme for improving feature diversity in vision transformers.
 
-**OpenReview**: https://openreview.net/forum?id=XiZYCewdxMQ
+**OpenReview**: [https://openreview.net/forum?id=XiZYCewdxMQ](https://openreview.net/forum?id=XiZYCewdxMQ)
 
-**PDF**: https://openreview.net/pdf?id=XiZYCewdxMQ
+**PDF**: [https://openreview.net/pdf?id=XiZYCewdxMQ](https://openreview.net/pdf?id=XiZYCewdxMQ)
 
 ### 11. Improved Transformer for High-Resolution GANs
 
@@ -106,9 +106,9 @@
 
 **TL;DR**: We propose a Transformer-based generator for high-resolution image synthesis.
 
-**OpenReview**: https://openreview.net/forum?id=zmbiQmdtg9
+**OpenReview**: [https://openreview.net/forum?id=zmbiQmdtg9](https://openreview.net/forum?id=zmbiQmdtg9)
 
-**PDF**: https://openreview.net/pdf?id=zmbiQmdtg9
+**PDF**: [https://openreview.net/pdf?id=zmbiQmdtg9](https://openreview.net/pdf?id=zmbiQmdtg9)
 
 ### 12.  Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers
 
@@ -116,9 +116,9 @@
 
 **TL;DR**: We present a new perspective of achieving image synthesis by a visual token generation problem and a model named TokenGAN with token-based representation and Transformer-based modeling.
 
-**OpenReview**: https://openreview.net/forum?id=lGoKo9WS2A_
+**OpenReview**: [https://openreview.net/forum?id=lGoKo9WS2A_](https://openreview.net/forum?id=lGoKo9WS2A_)
 
-**PDF**: https://openreview.net/pdf?id=lGoKo9WS2A_
+**PDF**: [https://openreview.net/pdf?id=lGoKo9WS2A_](https://openreview.net/pdf?id=lGoKo9WS2A_)
 
 ### 13. Multi-Person 3D Motion Prediction with Multi-Range Transformers
 
@@ -126,9 +126,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=gCaaFNvjfpPe
+**OpenReview**: [https://openreview.net/forum?id=gCaaFNvjfpPe](https://openreview.net/forum?id=gCaaFNvjfpPe)
 
-**PDF**: https://openreview.net/pdf?id=gCaaFNvjfpPe
+**PDF**: [https://openreview.net/pdf?id=gCaaFNvjfpPe](https://openreview.net/pdf?id=gCaaFNvjfpPe)
 
 ### 14. You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection
 
@@ -136,9 +136,9 @@
 
 **TL;DR**: We study the transferability of the vanilla ViT pre-trained on mid-sized ImageNet-1k to the more challenging COCO object detection benchmark.
 
-**OpenReview**: https://openreview.net/forum?id=nVofoXjTmA_
+**OpenReview**: [https://openreview.net/forum?id=nVofoXjTmA_](https://openreview.net/forum?id=nVofoXjTmA_)
 
-**PDF**: https://openreview.net/pdf?id=nVofoXjTmA_
+**PDF**: [https://openreview.net/pdf?id=nVofoXjTmA_](https://openreview.net/pdf?id=nVofoXjTmA_)
 
 ### 15. Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition
 
@@ -146,9 +146,9 @@
 
 **TL;DR**: We develop a Dynamic Vision Transformer (DVT) to automatically configure a proper number of tokens for each individual image, leading to a significant improvement in computational efficiency,  both theoretically and empirically.
 
-**OpenReview**: https://openreview.net/forum?id=M0J1c3PqwKZ
+**OpenReview**: [https://openreview.net/forum?id=M0J1c3PqwKZ](https://openreview.net/forum?id=M0J1c3PqwKZ)
 
-**PDF**: https://openreview.net/pdf?id=M0J1c3PqwKZ
+**PDF**: [https://openreview.net/pdf?id=M0J1c3PqwKZ](https://openreview.net/pdf?id=M0J1c3PqwKZ)
 
 ### 16. All Tokens Matter: Token Labeling for Training Better Vision Transformers
 
@@ -156,9 +156,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=2vubO341F_E
+**OpenReview**: [https://openreview.net/forum?id=2vubO341F_E](https://openreview.net/forum?id=2vubO341F_E)
 
-**PDF**: https://openreview.net/pdf?id=2vubO341F_E
+**PDF**: [https://openreview.net/pdf?id=2vubO341F_E](https://openreview.net/pdf?id=2vubO341F_E)
 
 ### 17. The Image Local Autoregressive Transformer
 
@@ -166,9 +166,9 @@
 
 **TL;DR**: This paper propose an image Local Autoregressive Transformer (iLAT) to effectively solve the locally guided image synthesis.
 
-**OpenReview**: https://openreview.net/forum?id=6mEWjDYJeE-
+**OpenReview**: [https://openreview.net/forum?id=6mEWjDYJeE-](https://openreview.net/forum?id=6mEWjDYJeE-)
 
-**PDF**: https://openreview.net/pdf?id=6mEWjDYJeE-
+**PDF**: [https://openreview.net/pdf?id=6mEWjDYJeE-](https://openreview.net/pdf?id=6mEWjDYJeE-)
 
 ### 18. Efficient Training of Visual Transformers with Small Datasets
 
@@ -176,9 +176,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=SCN8UaetXx
+**OpenReview**: [https://openreview.net/forum?id=SCN8UaetXx](https://openreview.net/forum?id=SCN8UaetXx)
 
-**PDF**: https://openreview.net/pdf?id=SCN8UaetXx
+**PDF**: [https://openreview.net/pdf?id=SCN8UaetXx](https://openreview.net/pdf?id=SCN8UaetXx)
 
 ### 19. Post-Training Quantization for Vision Transformer
 
@@ -186,9 +186,9 @@
 
 **TL;DR**: We propose a post-training quantization scheme for visual transformer, which consider the ranking loss of self-attention and take the nuclear norm of the features as the evaluation of the sensitivity of the transformer layer,
 
-**OpenReview**: https://openreview.net/forum?id=9TX5OsKJvm
+**OpenReview**: [https://openreview.net/forum?id=9TX5OsKJvm](https://openreview.net/forum?id=9TX5OsKJvm)
 
-**PDF**: https://openreview.net/pdf?id=9TX5OsKJvm
+**PDF**: [https://openreview.net/pdf?id=9TX5OsKJvm](https://openreview.net/pdf?id=9TX5OsKJvm)
 
 ### 20. Dynamic Grained Encoder for Vision Transformers
 
@@ -196,9 +196,9 @@
 
 **TL;DR**: This paper introduces dynamic network mechanism into Vision Transformers to reduce the spatial redundancy of image features.
 
-**OpenReview**: https://openreview.net/forum?id=gnAIV-EKw2
+**OpenReview**: [https://openreview.net/forum?id=gnAIV-EKw2](https://openreview.net/forum?id=gnAIV-EKw2)
 
-**PDF**: https://openreview.net/pdf?id=gnAIV-EKw2
+**PDF**: [https://openreview.net/pdf?id=gnAIV-EKw2](https://openreview.net/pdf?id=gnAIV-EKw2)
 
 ### 21. Revitalizing CNN Attention via Transformers in Self-Supervised Visual Representation Learning
 
@@ -206,9 +206,9 @@
 
 **TL;DR**: We revitalize CNN encoder attentions via transformer in self-supervised visual representation learning
 
-**OpenReview**: https://openreview.net/forum?id=sRojdWhXJx
+**OpenReview**: [https://openreview.net/forum?id=sRojdWhXJx](https://openreview.net/forum?id=sRojdWhXJx)
 
-**PDF**: https://openreview.net/pdf?id=sRojdWhXJx
+**PDF**: [https://openreview.net/pdf?id=sRojdWhXJx](https://openreview.net/pdf?id=sRojdWhXJx)
 
 ### 22. DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification
 
@@ -216,9 +216,9 @@
 
 **TL;DR**: We propose a dynamic token sparsification framework to prune redundant tokens progressively and dynamically for vision transformer acceleration.
 
-**OpenReview**: https://openreview.net/forum?id=jB0Nlbwlybm
+**OpenReview**: [https://openreview.net/forum?id=jB0Nlbwlybm](https://openreview.net/forum?id=jB0Nlbwlybm)
 
-**PDF**: https://openreview.net/pdf?id=jB0Nlbwlybm
+**PDF**: [https://openreview.net/pdf?id=jB0Nlbwlybm](https://openreview.net/pdf?id=jB0Nlbwlybm)
 
 ### 23. Transformer in Transformer
 
@@ -226,9 +226,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=iFODavhthGZ
+**OpenReview**: [https://openreview.net/forum?id=iFODavhthGZ](https://openreview.net/forum?id=iFODavhthGZ)
 
-**PDF**: https://openreview.net/pdf?id=iFODavhthGZ
+**PDF**: [https://openreview.net/pdf?id=iFODavhthGZ](https://openreview.net/pdf?id=iFODavhthGZ)
 
 ### 24. Video Instance Segmentation using Inter-Frame Communication Transformers
 
@@ -236,9 +236,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=pvjfA4wogD6
+**OpenReview**: [https://openreview.net/forum?id=pvjfA4wogD6](https://openreview.net/forum?id=pvjfA4wogD6)
 
-**PDF**: https://openreview.net/pdf?id=pvjfA4wogD6
+**PDF**: [https://openreview.net/pdf?id=pvjfA4wogD6](https://openreview.net/pdf?id=pvjfA4wogD6)
 
 ### 25. Learning to Iteratively Solve Routing Problems with Dual-Aspect Collaborative Transformer
 
@@ -246,9 +246,9 @@
 
 **TL;DR**: We present a Dual-Aspect Collaborative Transformer to solve vehicle routing problems, which delivers superior performance.
 
-**OpenReview**: https://openreview.net/forum?id=63pC59XOZLZ
+**OpenReview**: [https://openreview.net/forum?id=63pC59XOZLZ](https://openreview.net/forum?id=63pC59XOZLZ)
 
-**PDF**: https://openreview.net/pdf?id=63pC59XOZLZ
+**PDF**: [https://openreview.net/pdf?id=63pC59XOZLZ](https://openreview.net/pdf?id=63pC59XOZLZ)
 
 ### 26. Shifted Chunk Transformer for Spatio-Temporal Representational Learning
 
@@ -256,9 +256,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=fDSDkiiXHzj
+**OpenReview**: [https://openreview.net/forum?id=fDSDkiiXHzj](https://openreview.net/forum?id=fDSDkiiXHzj)
 
-**PDF**: https://openreview.net/pdf?id=fDSDkiiXHzj
+**PDF**: [https://openreview.net/pdf?id=fDSDkiiXHzj](https://openreview.net/pdf?id=fDSDkiiXHzj)
 
 ### 27. Chasing Sparsity in Vision Transformers: An End-to-End Exploration
 
@@ -266,9 +266,9 @@
 
 **TL;DR**: We jointly optimizes model parameters and explores connectivity throughout training, ending up with one sparse vision transformer as the final output.
 
-**OpenReview**: https://openreview.net/forum?id=LKoMTwTuQnC
+**OpenReview**: [https://openreview.net/forum?id=LKoMTwTuQnC](https://openreview.net/forum?id=LKoMTwTuQnC)
 
-**PDF**: https://openreview.net/pdf?id=LKoMTwTuQnC
+**PDF**: [https://openreview.net/pdf?id=LKoMTwTuQnC](https://openreview.net/pdf?id=LKoMTwTuQnC)
 
 ### 28. HRFormer: High-Resolution Vision Transformer for Dense Predict
 
@@ -276,9 +276,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=DF8LCjR03tX
+**OpenReview**: [https://openreview.net/forum?id=DF8LCjR03tX](https://openreview.net/forum?id=DF8LCjR03tX)
 
-**PDF**: https://openreview.net/pdf?id=DF8LCjR03tX
+**PDF**: [https://openreview.net/pdf?id=DF8LCjR03tX](https://openreview.net/pdf?id=DF8LCjR03tX)
 
 ### 29. TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification
 
@@ -286,9 +286,9 @@
 
 **TL;DR**: We proposed a correlated MIL framework and devised a Transformer based MIL to the weakly supervised classification of whole slide images.
 
-**OpenReview**: https://openreview.net/forum?id=LKUfuWxajHc
+**OpenReview**: [https://openreview.net/forum?id=LKUfuWxajHc](https://openreview.net/forum?id=LKUfuWxajHc)
 
-**PDF**: https://openreview.net/pdf?id=LKUfuWxajHc
+**PDF**: [https://openreview.net/pdf?id=LKUfuWxajHc](https://openreview.net/pdf?id=LKUfuWxajHc)
 
 ### 30. Federated Split Task-Agnostic  Vision Transformer for COVID-19 CXR Diagnosis
 
@@ -296,9 +296,9 @@
 
 **TL;DR**: We proposed a novel Federated Split Task-Agnostic (FeSTA) framework suitable to leverage the formidable benefit of Vision Transformer to simultaneously process multiple CXR tasks including the diagnosis of COVID-19.
 
-**OpenReview**: https://openreview.net/forum?id=Ggikq6Tdxch
+**OpenReview**: [https://openreview.net/forum?id=Ggikq6Tdxch](https://openreview.net/forum?id=Ggikq6Tdxch)
 
-**PDF**: https://openreview.net/pdf?id=Ggikq6Tdxch
+**PDF**: [https://openreview.net/pdf?id=Ggikq6Tdxch](https://openreview.net/pdf?id=Ggikq6Tdxch)
 
 ### 31. MST: Masked Self-Supervised Transformer for Visual Representation
 
@@ -306,9 +306,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=y_OmkmCH9w
+**OpenReview**: [https://openreview.net/forum?id=y_OmkmCH9w](https://openreview.net/forum?id=y_OmkmCH9w)
 
-**PDF**: https://openreview.net/pdf?id=y_OmkmCH9w
+**PDF**: [https://openreview.net/pdf?id=y_OmkmCH9w](https://openreview.net/pdf?id=y_OmkmCH9w)
 
 ### 32. ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias
 
@@ -316,9 +316,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=_RnHyIeu5Y5
+**OpenReview**: [https://openreview.net/forum?id=_RnHyIeu5Y5](https://openreview.net/forum?id=_RnHyIeu5Y5)
 
-**PDF**: https://openreview.net/pdf?id=_RnHyIeu5Y5
+**PDF**: [https://openreview.net/pdf?id=_RnHyIeu5Y5](https://openreview.net/pdf?id=_RnHyIeu5Y5)
 
 ### 33. Focal Attention for Long-Range Interactions in Vision Transformers
 
@@ -326,9 +326,9 @@
 
 **TL;DR**: An effective focal attention mechanism for modeling short- and long-range visual dependencies in Vision Transformers
 
-**OpenReview**: https://openreview.net/forum?id=2zCRcTafea
+**OpenReview**: [https://openreview.net/forum?id=2zCRcTafea](https://openreview.net/forum?id=2zCRcTafea)
 
-**PDF**: https://openreview.net/pdf?id=2zCRcTafea
+**PDF**: [https://openreview.net/pdf?id=2zCRcTafea](https://openreview.net/pdf?id=2zCRcTafea)
 
 ### 34. Blending Anti-Aliasing into Vision Transformer
 
@@ -336,9 +336,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=0-0Wk0t6A_Z
+**OpenReview**: [https://openreview.net/forum?id=0-0Wk0t6A_Z](https://openreview.net/forum?id=0-0Wk0t6A_Z)
 
-**PDF**: https://openreview.net/pdf?id=0-0Wk0t6A_Z
+**PDF**: [https://openreview.net/pdf?id=0-0Wk0t6A_Z](https://openreview.net/pdf?id=0-0Wk0t6A_Z)
 
 ### 35. Referring Transformer: A One-step Approach to Multi-task Visual Grounding
 
@@ -346,9 +346,9 @@
 
 **TL;DR**: A one-step transformer based model that solves Referring Expression Detection and Referring Expression Segmentation jointly.
 
-**OpenReview**: https://openreview.net/forum?id=j7u7cJDBo8p
+**OpenReview**: [https://openreview.net/forum?id=j7u7cJDBo8p](https://openreview.net/forum?id=j7u7cJDBo8p)
 
-**PDF**: https://openreview.net/pdf?id=j7u7cJDBo8p
+**PDF**: [https://openreview.net/pdf?id=j7u7cJDBo8p](https://openreview.net/pdf?id=j7u7cJDBo8p)
 
 ### 36. Adder Attention for Vision Transformer
 
@@ -356,9 +356,9 @@
 
 **TL;DR**: Implementing transformers using cheap addition operation
 
-**OpenReview**: https://openreview.net/forum?id=5Ld5bRB9jzY
+**OpenReview**: [https://openreview.net/forum?id=5Ld5bRB9jzY](https://openreview.net/forum?id=5Ld5bRB9jzY)
 
-**PDF**: https://openreview.net/pdf?id=5Ld5bRB9jzY
+**PDF**: [https://openreview.net/pdf?id=5Ld5bRB9jzY](https://openreview.net/pdf?id=5Ld5bRB9jzY)
 
 ### 37. History Aware Multimodal Transformer for Vision-and-Language Navigation
 
@@ -366,9 +366,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=SQxuiYf2TT
+**OpenReview**: [https://openreview.net/forum?id=SQxuiYf2TT](https://openreview.net/forum?id=SQxuiYf2TT)
 
-**PDF**: https://openreview.net/pdf?id=SQxuiYf2TT
+**PDF**: [https://openreview.net/pdf?id=SQxuiYf2TT](https://openreview.net/pdf?id=SQxuiYf2TT)
 
 ### 38. Associating Objects with Transformers for Video Object Segmentation
 
@@ -376,9 +376,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=hl3v8io3ZYt
+**OpenReview**: [https://openreview.net/forum?id=hl3v8io3ZYt](https://openreview.net/forum?id=hl3v8io3ZYt)
 
-**PDF**: https://openreview.net/pdf?id=hl3v8io3ZYt
+**PDF**: [https://openreview.net/pdf?id=hl3v8io3ZYt](https://openreview.net/pdf?id=hl3v8io3ZYt)
 
 ### 39. Twins: Revisiting the Design of Spatial Attention in Vision Transformers
 
@@ -386,9 +386,9 @@
 
 **TL;DR**: Two simple and effective designs of vision transformer, which is on par with the Swin transformer
 
-**OpenReview**: https://openreview.net/forum?id=5kTlVBkzSRx
+**OpenReview**: [https://openreview.net/forum?id=5kTlVBkzSRx](https://openreview.net/forum?id=5kTlVBkzSRx)
 
-**PDF**: https://openreview.net/pdf?id=5kTlVBkzSRx
+**PDF**: [https://openreview.net/pdf?id=5kTlVBkzSRx](https://openreview.net/pdf?id=5kTlVBkzSRx)
 
 ### 40. IA-RED$^2$: Interpretability-Aware Redundancy Reduction for Vision Transformers
 
@@ -396,9 +396,9 @@
 
 **TL;DR**: An input-dependent and interpretable dynamic inference framework for vision transformer, which adaptively decides the patch tokens to compute per input instance.
 
-**OpenReview**: https://openreview.net/forum?id=7X_sBjIwtm9
+**OpenReview**: [https://openreview.net/forum?id=7X_sBjIwtm9](https://openreview.net/forum?id=7X_sBjIwtm9)
 
-**PDF**: https://openreview.net/pdf?id=7X_sBjIwtm9
+**PDF**: [https://openreview.net/pdf?id=7X_sBjIwtm9](https://openreview.net/pdf?id=7X_sBjIwtm9)
 
 ### 41. TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification
 
@@ -406,9 +406,9 @@
 
 **TL;DR**: A transformer-based deep image matching method is developed for generalizable person re-identification, achieving state-of-the-art performance.
 
-**OpenReview**: https://openreview.net/forum?id=I3yGrFoH8DF
+**OpenReview**: [https://openreview.net/forum?id=I3yGrFoH8DF](https://openreview.net/forum?id=I3yGrFoH8DF)
 
-**PDF**: https://openreview.net/pdf?id=I3yGrFoH8DF
+**PDF**: [https://openreview.net/pdf?id=I3yGrFoH8DF](https://openreview.net/pdf?id=I3yGrFoH8DF)
 
 ### 42. CATs: Cost Aggregation Transformers for Visual Correspondence
 
@@ -416,9 +416,9 @@
 
 **TL;DR**: None
 
-**OpenReview**: https://openreview.net/forum?id=eVuMspr9cu5
+**OpenReview**: [https://openreview.net/forum?id=eVuMspr9cu5](https://openreview.net/forum?id=eVuMspr9cu5)
 
-**PDF**: https://openreview.net/pdf?id=eVuMspr9cu5
+**PDF**: [https://openreview.net/pdf?id=eVuMspr9cu5](https://openreview.net/pdf?id=eVuMspr9cu5)
 
 ### 43. Compositional Transformers for Scene Generation
 
@@ -426,9 +426,9 @@
 
 **TL;DR**: A new compositional transformer model for recurrent scene generation.
 
-**OpenReview**: https://openreview.net/forum?id=YQeWoRnwTnE
+**OpenReview**: [https://openreview.net/forum?id=YQeWoRnwTnE](https://openreview.net/forum?id=YQeWoRnwTnE)
 
-**PDF**: https://openreview.net/pdf?id=YQeWoRnwTnE
+**PDF**: [https://openreview.net/pdf?id=YQeWoRnwTnE](https://openreview.net/pdf?id=YQeWoRnwTnE)
 
 ### 44. SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation
 
@@ -436,9 +436,9 @@
 
 **TL;DR**: We design a new vision-and-language navigation agent that operates on both scene and object features with a multimodal transformer using a selective attention pattern for object-centric processing.
 
-**OpenReview**: https://openreview.net/forum?id=E5EoQqCVYX
+**OpenReview**: [https://openreview.net/forum?id=E5EoQqCVYX](https://openreview.net/forum?id=E5EoQqCVYX)
 
-**PDF**: https://openreview.net/pdf?id=E5EoQqCVYX
+**PDF**: [https://openreview.net/pdf?id=E5EoQqCVYX](https://openreview.net/pdf?id=E5EoQqCVYX)
 
 ### 45. Glance-and-Gaze Vision Transformer
 
@@ -446,9 +446,9 @@
 
 **TL;DR**: A new state-of-the-art efficient and effective Vision Transformer with Glance-and-Gaze mechanism
 
-**OpenReview**: https://openreview.net/forum?id=GitDcBlcg78
+**OpenReview**: [https://openreview.net/forum?id=GitDcBlcg78](https://openreview.net/forum?id=GitDcBlcg78)
 
-**PDF**: https://openreview.net/pdf?id=GitDcBlcg78
+**PDF**: [https://openreview.net/pdf?id=GitDcBlcg78](https://openreview.net/pdf?id=GitDcBlcg78)
 
 ### 46. XCiT: Cross-Covariance Image Transformers
 
@@ -456,9 +456,9 @@
 
 **TL;DR**: A new transformer model for image processing, whose complexity is linear in the image resolution with no approximation
 
-**OpenReview**: https://openreview.net/forum?id=kzPtpIpF8o
+**OpenReview**: [https://openreview.net/forum?id=kzPtpIpF8o](https://openreview.net/forum?id=kzPtpIpF8o)
 
-**PDF**: https://openreview.net/pdf?id=kzPtpIpF8o
+**PDF**: [https://openreview.net/pdf?id=kzPtpIpF8o](https://openreview.net/pdf?id=kzPtpIpF8o)
 
 ### 47. Are Transformers more robust than CNNs? 
 
@@ -466,9 +466,9 @@
 
 **TL;DR**: We provide the first fair and in-depth comparison between Transformers and CNNs
 
-**OpenReview**: https://openreview.net/forum?id=hbHkvGBZB9
+**OpenReview**: [https://openreview.net/forum?id=hbHkvGBZB9](https://openreview.net/forum?id=hbHkvGBZB9)
 
-**PDF**: https://openreview.net/pdf?id=hbHkvGBZB9
+**PDF**: [https://openreview.net/pdf?id=hbHkvGBZB9](https://openreview.net/pdf?id=hbHkvGBZB9)
 
 ### 48. Implicit Transformer Network for Screen Content Image Continuous Super-Resolution
 
@@ -476,9 +476,9 @@
 
 **TL;DR**: A novel method for  Screen Content Image Continuous Super-Resolution
 
-**OpenReview**: https://openreview.net/forum?id=x4t0fxWPNdi
+**OpenReview**: [https://openreview.net/forum?id=x4t0fxWPNdi](https://openreview.net/forum?id=x4t0fxWPNdi)
 
-**PDF**: https://openreview.net/pdf?id=x4t0fxWPNdi
+**PDF**: [https://openreview.net/pdf?id=x4t0fxWPNdi](https://openreview.net/pdf?id=x4t0fxWPNdi)
 
 ### 49. Few-Shot Segmentation via Cycle-Consistent Transformer
 
@@ -486,9 +486,9 @@
 
 **TL;DR**: We propose a cycle-consistent transformer (CyCTR) to aggregate the pixel-wise support features into the query ones for few-shot segmentation while avoiding biasing by harmful information.
 
-**OpenReview**: https://openreview.net/forum?id=LWH-C1HoQG_
+**OpenReview**: [https://openreview.net/forum?id=LWH-C1HoQG_](https://openreview.net/forum?id=LWH-C1HoQG_)
 
-**PDF**: https://openreview.net/pdf?id=LWH-C1HoQG_
+**PDF**: [https://openreview.net/pdf?id=LWH-C1HoQG_](https://openreview.net/pdf?id=LWH-C1HoQG_)
 
 ### 50. Intriguing Properties of Vision Transformers
 
@@ -496,9 +496,9 @@
 
 **TL;DR**: Analysis of content-dependent long-range interaction modeling capabilities of Vision Transformers in terms of robustness against image nuisances such as severe occlusions, domain shifts, spatial permutations, adversarial and natural perturbations.
 
-**OpenReview**: https://openreview.net/forum?id=o2mbl-Hmfgd
+**OpenReview**: [https://openreview.net/forum?id=o2mbl-Hmfgd](https://openreview.net/forum?id=o2mbl-Hmfgd)
 
-**PDF**: https://openreview.net/pdf?id=o2mbl-Hmfgd
+**PDF**: [https://openreview.net/pdf?id=o2mbl-Hmfgd](https://openreview.net/pdf?id=o2mbl-Hmfgd)
 
 ### 51. ResT: An Efficient Transformer for Visual Recognition
 
@@ -506,9 +506,9 @@
 
 **TL;DR**: An efficient multi-scale vision Transformer that can tackle input images with arbitrary size.
 
-**OpenReview**: https://openreview.net/forum?id=6Ab68Ip4Mu
+**OpenReview**: [https://openreview.net/forum?id=6Ab68Ip4Mu](https://openreview.net/forum?id=6Ab68Ip4Mu)
 
-**PDF**: https://openreview.net/pdf?id=6Ab68Ip4Mu
+**PDF**: [https://openreview.net/pdf?id=6Ab68Ip4Mu](https://openreview.net/pdf?id=6Ab68Ip4Mu)
 
 ### 52. TransformerFusion: Monocular RGB Scene Reconstruction using Transformers
 
@@ -516,9 +516,9 @@
 
 **TL;DR**: We propose a transformer-based approach for 3D scene reconstruction from multi-view RGB input.
 
-**OpenReview**: https://openreview.net/forum?id=ZEoMBPtvqey
+**OpenReview**: [https://openreview.net/forum?id=ZEoMBPtvqey](https://openreview.net/forum?id=ZEoMBPtvqey)
 
-**PDF**: https://openreview.net/pdf?id=ZEoMBPtvqey
+**PDF**: [https://openreview.net/pdf?id=ZEoMBPtvqey](https://openreview.net/pdf?id=ZEoMBPtvqey)
 
 ### 53. Cross-view Geo-localization with Layer-to-Layer Transformer
 
@@ -526,9 +526,9 @@
 
 **TL;DR**: This paper proposes a novel layer-to-layer Transformer for cross-view geo-localization.
 
-**OpenReview**: https://openreview.net/forum?id=tQgj7CDTfKB
+**OpenReview**: [https://openreview.net/forum?id=tQgj7CDTfKB](https://openreview.net/forum?id=tQgj7CDTfKB)
 
-**PDF**: https://openreview.net/pdf?id=tQgj7CDTfKB
+**PDF**: [https://openreview.net/pdf?id=tQgj7CDTfKB](https://openreview.net/pdf?id=tQgj7CDTfKB)
 
 ### 54. Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers
 
@@ -536,9 +536,9 @@
 
 **TL;DR**: A new attention block for video transformers that implicitly models motion paths
 
-**OpenReview**: https://openreview.net/forum?id=mfQxdSMWOF
+**OpenReview**: [https://openreview.net/forum?id=mfQxdSMWOF](https://openreview.net/forum?id=mfQxdSMWOF)
 
-**PDF**: https://openreview.net/pdf?id=mfQxdSMWOF
+**PDF**: [https://openreview.net/pdf?id=mfQxdSMWOF](https://openreview.net/pdf?id=mfQxdSMWOF)
 
 ### 55. Space-time Mixing Attention for Video Transformer
 
@@ -549,6 +549,7 @@
 **OpenReview**: [https://openreview.net/forum?id=QgX15Mdi1E_](https://openreview.net/forum?id=QgX15Mdi1E_)
 
 **PDF**: [https://openreview.net/pdf?id=QgX15Mdi1E_](https://openreview.net/pdf?id=QgX15Mdi1E_)
+
 
 ### 欢迎关注
 
